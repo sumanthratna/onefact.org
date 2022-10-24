@@ -252,6 +252,23 @@ Show the password
 \
 For more information, check out the [Functions docs](/docs/functions).
 
+## Comments
+
+{% callout type="warning" %}
+Note: comment support currently requires passing `allowComments: true` to `Markdoc.Tokenizer`.  
+This will be on by default in a future version of Markdoc.
+{% /callout%}
+
+Markdoc supports [Markdown comment syntax](https://spec.commonmark.org/0.30/#example-624) adding comments to your documents without having the content show up in the renderable output.
+
+{% markdoc-example %}
+
+```
+<!-- comment goes here -->
+```
+
+{% /markdoc-example %}
+
 ## Config
 
 This table outlines the various options you can pass to `Markdoc.transform`. Each option adjusts how a document is [transformed](/docs/render#transform) and [rendered](/docs/render#render).
@@ -314,8 +331,7 @@ const config = {
       render: 'Callout',
       attributes: {
         title: {
-          type: String,
-          description: 'The title displayed at the top of the callout'
+          type: String
         }
       }
     }

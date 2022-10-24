@@ -15,6 +15,7 @@ You define custom nodes by passing a custom Node to your [`Config`](/docs/syntax
 
 ```js
 import { heading } from './schema/Heading.markdoc';
+import * as components from './components';
 
 const config = {
   nodes: {
@@ -146,7 +147,7 @@ Markdoc comes out of the box with built-in nodes for each of the [CommonMark](ht
 ---
 
 - `document`
-- `frontmatter`
+- [`frontmatter`](/docs/frontmatter)
 
 ---
 
@@ -166,12 +167,25 @@ Markdoc comes out of the box with built-in nodes for each of the [CommonMark](ht
 ---
 
 - `image`
-- `src`, `alt`
+- `src`
+
+  `alt`
 
 ---
 
 - `fence`
-- `content`, `language`, `process`
+- 
+  {% table %}
+  ---
+  - `content`
+  - A string containing the plain text inside the fence.
+  ---
+  - `language`
+  - The programming language used for syntax highlighting the fence contents.
+  ---
+  - `process`
+  - Determine whether to parse Markdoc tags within a fence. Set `process=false` to treat the content within a fence as plain text. 
+  {% /table %}
 
 ---
 
@@ -211,12 +225,18 @@ Markdoc comes out of the box with built-in nodes for each of the [CommonMark](ht
 ---
 
 - `td`
-- `align`, `colspan`, `rowspan`
+- `align`
+
+  `colspan`
+  
+  `rowspan`
 
 ---
 
 - `th`
-- `align`, `width`
+- `align`
+
+  `width`
 
 ---
 
@@ -241,7 +261,9 @@ Markdoc comes out of the box with built-in nodes for each of the [CommonMark](ht
 ---
 
 - `link`
-- `href`, `title`
+- `href`
+
+  `title`
 
 ---
 

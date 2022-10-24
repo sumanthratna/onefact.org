@@ -38,20 +38,16 @@ To extend Markdoc with a custom tag, first, create a tag definition. In this exa
 
 export const callout = {
   render: 'Callout',
-  description: 'Display the enclosed content in a callout box',
   children: ['paragraph', 'tag', 'list'],
   attributes: {
     type: {
       type: String,
       default: 'note',
       matches: ['caution', 'check', 'note', 'warning'],
-      errorLevel: 'critical',
-      description:
-        'Controls the color and icon of the callout. Can be: "caution", "check", "note", "warning"'
+      errorLevel: 'critical'
     },
     title: {
-      type: String,
-      description: 'The title displayed at the top of the callout'
+      type: String
     }
   }
 };
@@ -61,6 +57,7 @@ Then, pass the tag definition to your [`Config` object](/docs/syntax#config):
 
 ```js
 import { callout } from './schema/Callout.markdoc';
+import * as components from './components';
 
 const config = {
   tags: {
