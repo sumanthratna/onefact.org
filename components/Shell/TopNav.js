@@ -1,5 +1,5 @@
 import React from 'react';
-import { DocSearch } from '@docsearch/react';
+// import { DocSearch } from '@docsearch/react';
 
 import { AppLink as Link } from '../AppLink';
 
