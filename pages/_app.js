@@ -161,7 +161,7 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="/handbook">Handbook</Link>
+          <Link href="https://handbook.onefact.org">Handbook</Link>
           <Link href="https://github.com/onefact">GitHub</Link>
           <Link href="https://onefact.zulipchat.com">
             Community
