@@ -21,8 +21,8 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'Markdoc';
-const DESCRIPTION = 'A powerful, flexible, Markdown-based authoring framework';
+const TITLE = 'One Fact';
+const DESCRIPTION = 'Our mission is to change global healthcare using open source principles.';
 const MARKDOC = `
 
 

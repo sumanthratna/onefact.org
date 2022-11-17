@@ -1,6 +1,6 @@
 ---
-title: A powerful, flexible, Markdown-based authoring framework
-description: From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
+title: Team
+description: The One Fact Foundation team is on a mission to change global health care using open source principles.
 ---
 
 {% section .value-props %}

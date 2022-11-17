@@ -12,7 +12,7 @@ module.exports = withMarkdoc()({
       {
         source: '/handbook',
         destination: 'https://handbook.onefact.org',
-        permanent: false
+        permanent: true
       }
     ];
   },
