@@ -17,7 +17,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- `Ben Guzovksy`
+- `Ben Guzovsky`
 - [ben@onefact.org](mailto:ben@onefact.org)
 - [Website](https://benguzovsky.com) [Twitter](https://twitter.com/benguzovsky) [LinkedIn](https://www.linkedin.com/in/benjamin-guzovsky/)
 - Chief Librarian
