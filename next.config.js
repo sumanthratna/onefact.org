@@ -10,8 +10,8 @@ module.exports = withMarkdoc()({
   redirects() {
     return [
       {
-        source: '/docs',
-        destination: '/docs/getting-started',
+        source: '/handbook',
+        destination: 'https://handbook.onefact.org',
         permanent: false
       }
     ];
