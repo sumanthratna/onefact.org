@@ -54,7 +54,7 @@ export function Footer({ children: links, landing }) {
         <polygon
           fillRule="evenodd"
           clipRule="evenodd"
-          class="st0" points="642.5 333.4 631 313.6 619.4 333.4"
+          points="642.5 333.4 631 313.6 619.4 333.4"
           fill="var(--dark)"
         />
         <path

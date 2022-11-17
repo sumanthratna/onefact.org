@@ -22,7 +22,7 @@ export function TopNav({ children }) {
           <Link href="/" className="flex">
           <svg title="onefact.org" width="99"
         height="28" fill="none"
-        enable-background="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
+        enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
         <polygon
           fillRule="evenodd"
           clipRule="evenodd"
@@ -68,7 +68,7 @@ export function TopNav({ children }) {
         <polygon
           fillRule="evenodd"
           clipRule="evenodd"
-          class="st0" points="642.5 333.4 631 313.6 619.4 333.4"
+          points="642.5 333.4 631 313.6 619.4 333.4"
           fill="var(--dark)"
         />
         <path
