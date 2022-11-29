@@ -1,7 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
 // import Jaan from '../public/images/jaan.jpg';
-import dynamic from 'next/dynamic';
 
 // usage: {% picture src="/images/jaan.jpg" alt="jaan" width=400 height=800 /%}
 // following https://nextjs.org/docs/api-reference/next/image
