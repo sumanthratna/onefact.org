@@ -164,9 +164,17 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [LinkedIn](https://www.linkedin.com/in/drjoannewu/)
 - Secretary of the Board
 
+
 ---
 
-- 
+- ![finale](/images/finale.jpg)
+- `Finale Doshi-Velez`
+- [Website](https://dtak.github.io/) [Twitter](https://twitter.com/finaledoshi) [Scholar](https://scholar.google.com/citations?user=hwQtFB0AAAAJ&hl=en)
+- Professor, Harvard University
+
+---
+
+- ![philip](/images/philip.jpg)
 - `Philip Resnik`
 - [Website](http://users.umiacs.umd.edu/~resnik/) [Twitter](https://twitter.com/psresnik?lang=en) [Scholar](https://scholar.google.com/citations?user=71BFWc0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/philip-resnik-a26593/)
 - Professor, University of Maryland
