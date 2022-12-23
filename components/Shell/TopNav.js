@@ -20,7 +20,7 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
-    {/* TIM COMMENT*/}
+    {/* OFF Logo here*/}
           <svg title="onefact.org" width="300"
         height="171" fill="none"
         enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
