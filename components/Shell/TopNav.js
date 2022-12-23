@@ -20,8 +20,9 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
-          <svg title="onefact.org" width="99"
-        height="28" fill="none"
+    // off-logo here //
+          <svg title="onefact.org" width="198"
+        height="56" fill="none"
         enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
         <polygon
           fillRule="evenodd"
