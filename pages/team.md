@@ -86,7 +86,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - ![maxim](/images/maxim.jpg)
 - `Maxim Zaslavsky`
 - [maxim@onefact.org](mailto:maxim@onefact.org)
-- [Website](https://www.maximzaslavsky.com/) [Twitter](https://twitter.com/zazius) [LinkedIn](https://www.linkedin.com/in/rohan-bansal-0910651a5/)
+- [Website](https://www.maximzaslavsky.com/) [Twitter](https://twitter.com/zazius) [LinkedIn](https://www.linkedin.com/in/maximzaslavsky/)
 - Community Building, Payless Health
 
 ---
