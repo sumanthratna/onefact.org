@@ -1,4 +1,9 @@
-&nbsp;
+---
+title: Time
+description: How much time do you have to learn?
+---
+
+{% section .value-props %}
 
 # How much time do you have to learn?
 
