@@ -3,6 +3,8 @@ title: Time
 description: How much time do you have to learn?
 ---
 
+&nbsp;
+
 {% section .value-props %}
 
 # How much time do you have to learn?
