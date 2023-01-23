@@ -31,6 +31,6 @@ If you just want to do better in class, be less stressed, or even eat better foo
 
 ## Bonus: "Social-emotional" time.
 
-At the end of the day, estimate how much class time wasn't instructional, but enganging: over half the class was enjoying a funny video a teacher shared or having a non-academic conversation. Send us that number, too!
+At the end of the day, estimate how much class time wasn't instructional, but engaging: over half the class was enjoying a funny video a teacher shared or having a non-academic conversation. Send us that number, too!
 
 We don't save your contact info or any personal data. 
