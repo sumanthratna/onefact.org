@@ -18,3 +18,7 @@ Contributions and feedback are welcomed and encouraged. Feel free to open PRs or
 Test locally using `npm run dev`.
 
 Use [act](https://github.com/nektos/act) to test GitHub Actions deployment locally.
+
+## Deployment
+
+Fork this repo, go to settings > pages > source. In the dropdown, select Github Actions.
