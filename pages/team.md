@@ -27,6 +27,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
+- ![theresa](/images/theresa.jpg)
+- `Theresa Stockdale`
+- [theresa@onefact.org](mailto:theresa@onefact.org)
+- [Website]([https://jaan.io](https://www.stockdale.consulting/) [LinkedIn]([https://www.linkedin.com/in/theresastockdale/](https://www.linkedin.com/in/theresastockdale/))
+- Chief of Development
+
+---
+
 - ![kakuyon](/images/kakuyon.jpg)
 - `Kakuyon Mataeh`
 - [kakuyon@onefact.org](mailto:kakuyon@onefact.org)
