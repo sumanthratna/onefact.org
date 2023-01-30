@@ -115,7 +115,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+- ![swapneel](/images/swapneel_headshot.jpg)
 - `Swapneel Mehta`
 - [swapneel@onefact.org](mailto:swapneel@onefact.org)
 - [Website](https://mehtaver.se/) [Twitter](https://twitter.com/swapneel_mehta) [LinkedIn](https://www.linkedin.com/in/swapneelm/)  
