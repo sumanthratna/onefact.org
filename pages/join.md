@@ -19,4 +19,6 @@ To work with us through Google Summer of Code, please email us at hello@onefact.
 * which open source projects you are interested in working on, for example from this list: https://onefact.org/project-ideas
 * a set of milestones you believe are feasible to complete during the program, and what the resources and support you would need to complete the milestones
 
+Getting feedback on your submission: you can email us at hello@onefact.org with your draft and we can help you understand if it is feasible. Alternatively, you can also join our chat room: https://onefact.zulipchat.com and ask for help completing your proposal there. Asking for help is encouraged, and the best applicants usually decide to ask for help!
+
 {% section %}
