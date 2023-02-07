@@ -116,6 +116,13 @@ description: The One Fact Foundation team is on a mission to change global healt
 ---
 
 - 
+- `Michael Snarski`
+- [LinkedIn](https://www.linkedin.com/in/michael-snarski-25247424/)
+- Education Researcher
+
+---
+
+- 
 - `Susan Merriam`
 - [susan@onefact.org](mailto:susan@onefact.org)
 - [Twitter](https://twitter.com/semerriam) [LinkedIn](https://www.linkedin.com/in/susan-merriam/) 
