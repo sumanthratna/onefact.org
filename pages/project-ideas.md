@@ -19,7 +19,7 @@ A sampling of our mentors' past open source work:
 * We worked with [The Browser](https://thebrowser.com) to build the first open source machine learning powered newsfeed framework, and published the source code on [GitHub](https://github.com/the-browser/recommending-interesting-writing) and the [whitepaper](http://ceur-ws.org/Vol-2682/short2.pdf) describing the architecture at an Association for Computing Machinery workshop on recommender systems 
 * The first open source language model validated against clinician judgment: https://arxiv.org/abs/1904.05342 ([200+ stars and 400+ citations](https://github.com/kexinhuang12345/clinicalBERT))
 * The first public database of 5000 hospitals and their prices: https://www.dolthub.com/repositories/onefact/paylesshealth/ (got to #1 on Hacker News! https://news.ycombinator.com/item?id=33882506)
-* [Parrot Report](http://parrot.report), an open-access tool to study disinformation and coordinated activity promoting news from unreliable outlets on social media, built with The Sunday Times (UK) for the JournalismAI Festival, 2022.
+* [Parrot Report](http://parrot.report), an open-access tool to study disinformation and coordinated activity promoting news from unreliable outlets on social media, built with The Sunday Times (UK) for the JournalismAI Festival, 2022. We provide a [detailed problem description and data dictionary](https://docs.google.com/document/d/1FSVBhtfw9p8ChREA0ANN4gSav6GntZvgwnyynv2zcfQ/edit?usp=sharing) to access the data and expand the system we have built, that has been used in a recent hackathon with the team that worked on it winning the 2nd place!
 
 ## Public Map and Geospatial Analysis of Hospital Prices in the US
 
