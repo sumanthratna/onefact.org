@@ -115,7 +115,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+- ![michael](/images/michael.jpg)
 - `Michael Snarski`
 - [LinkedIn](https://www.linkedin.com/in/michael-snarski-25247424/)
 - Education Researcher
