@@ -8,7 +8,13 @@
 
 ### Deploy using GitHub Pages
 
-GitHub Pages does not support some features of `Next.js` as this library is maintained and aligned with Vercel whose business model depends on differentiating features from GitHub Pages. One example is [incremental static regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration), which is critical to some of our web properties at the One Fact Foundation. If you cannot afford Vercel but need any help deploying to GitHub Pages please email us at hello@onefact.org and we will do our best to help :)
+GitHub Pages does not support some features of `Next.js` as this library is maintained and aligned with Vercel whose business model depends on differentiating features from GitHub Pages. 
+
+One example is [incremental static regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration), which is critical to some of our web properties at the One Fact Foundation. 
+
+You can use this GitHub Action to deploy the website using only GitHub technology: https://github.com/onefact/onefact.org/blob/main/.github/workflows/nextjs.yml
+
+If you cannot afford Vercel and need any help deploying to GitHub Pages please email us at hello@onefact.org and we will do our best to help :)
 
 https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world&install-command=npm%20install
 
