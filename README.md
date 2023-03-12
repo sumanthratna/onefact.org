@@ -1,6 +1,6 @@
 ## One Fact Foundation Website
 
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=onefact-org)
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=onefact-org) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Deploy to Vercel to build your own website using our code!
 
