@@ -1,4 +1,6 @@
-# One Fact Foundation
+## One Fact Foundation Website
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonefact%2Fonefact.org&demo-title=One%20Fact%20Foundation%20Website&demo-url=onefact.org&demo-image=https%3A%2F%2Fwww.onefact.org%2Fimages%2Fshare.png)
 
 This code uses [Markdoc](https://markdoc.dev) to render the One Fact Foundation website.
 ## Contributing
