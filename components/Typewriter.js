@@ -85,7 +85,7 @@ function Type({ text, onEnd }) {
 }
 
 const text =
-  'Start with Empathy. Human-Centered Data Thinking.';
+  'Our mission is to change global health care using open source principles.';
 
 export function Typewriter() {
   const [state, setState] = React.useState(0);
@@ -105,7 +105,7 @@ export function Typewriter() {
         {state >= 3 && (
           <>
             <br />
-            <Type text=" Make sense of large data sets. Information and Knowledge emerge." onEnd={next} />
+            <Type text=" health care across the world using " onEnd={next} />
           </>
         )}
         {state >= 4 && (
