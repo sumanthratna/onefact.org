@@ -55,7 +55,7 @@ Given our hybrid, in-person, and remote work environment, the ability to communi
 
 ## Why is it hard to find a candidate for this role? 
 
-It is difficult to find people familiar with open source principles such as those embedded in Bellingcat, Propublica, Consumer Reports, Vital Strategies programs such as simple.org or the Signal Technology Foundation's work that includes signal.org – familiarity with any of these organizations would help!
+It is difficult to find people familiar with open source principles such as those embedded in Bellingcat, Propublica, Consumer Reports, Vital Strategies programs such as simple.org or the Signal Technology Foundation's work that includes signal.org – familiarity with any of these organizations would help! Some of our principles are also here: https://jaan.io/my-friend-radicalized-this-made-me-rethink-how-i-build-AI/ and interactionprinciples.org.
 
 Reach out to hello@onefact.org with your CV and writing sample of any piece of writing in English that you are proud of.
 
