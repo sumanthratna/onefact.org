@@ -204,10 +204,10 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![matt](/images/matt.jpg)
-- `Matt Davis`
-- [Website](https://sema4.com/our-story/leadership/) [LinkedIn](https://www.linkedin.com/in/matthew-davis-51233386/)
-- Chief Product & Technology Officer, Sema4
+- ![uche-aneni](/images/uche.jpg)
+- `Uche Aneni`
+- [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
+- Professor, Yale School of Medicine
 
 ---
 
@@ -215,6 +215,13 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Steve Hayes`
 - [Website](https://stevenchayes.com/) [Twitter](https://twitter.com/stevenchayes)
 - Professor, University of Nevada
+
+---
+
+- ![matt](/images/matt.jpg)
+- `Matt Davis`
+- [Website](https://sema4.com/our-story/leadership/) [LinkedIn](https://www.linkedin.com/in/matthew-davis-51233386/)
+- Chief Product & Technology Officer, Sema4
 
 ---
 
