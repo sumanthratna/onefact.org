@@ -1,15 +1,13 @@
 ---
-title: Human-centered Data Thinking 
-description: Using empathy, with design thinking as a model and metaphor, we enable clear understanding of how to work with data to make considered and impactful decisions.
+title: Health, education, and discourse powered by artificial intelligence
+description: We change health, education, and discourse using open source principles at global scale.
 ---
 
 {% section .hero %}
 
 {% typewriter /%}
 
-> Use Data Thinking as an approach to working with data in a human way that maken the tools and methods clear and useful. By taking a human-centered approach to data science we de-mystify the processes and cut through the jargon. Make DATA work for you. Tranform sets of data into useful and actionable information, which you can apply in the real world. 
-> 
-> Design thinking has transformed the way products and services are built, and influences many aspects of our lives. As artificial intelligence, analytics, and data become pervasive, data thinking is transforming how we make decisions, gather information about the world, and live our lives.
+> Vision: Convenient, easy, and free health; education in support of agency, psychological safety, and self-efficacy; online and offline discourse backed by open source AI – for every person on the planet by 2030. Here's what we are building to make this a reality:
 
 {% /section %}
 
@@ -23,9 +21,9 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### EMPATHY {% .jumbo %}
+  ### Payless Health {% .jumbo %}
 
-  Start with real human needs. User-led. Behaviour-led. Purpose-led. Good.
+  [Payless.health](https://payless.health) is a search engine and open database of all hospital prices in the United States. We are currently running a [data bounty](https://www.dolthub.com/blog/2022-10-28-announcing-hospital-urls/) and paying up to $10,000 for help collecting this data that is public by federal law.
 
   {% /item %}
 
@@ -33,9 +31,9 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### CLARITY {% .jumbo %}
+  ### The Late Pass {% .jumbo %}
 
- "Data thinking" is a pun on "deisgn thinking'. Data thinking is a type of design mind-set.
+  [The Late Pass](https://thelatepass.org/) is built on our work in schools across the United States, Europe, and Latin America. We published a [report](https://onefact.org/pdfs/leveraged.pdf) and are developing an honor society in support of learner agency.
 
   {% /item %}
 
@@ -43,9 +41,19 @@ description: Using empathy, with design thinking as a model and metaphor, we ena
 
   {% item %}
 
-  ### IMPACT {% .jumbo %}
+  ### Data Thinking {% .jumbo %}
 
   [Data Thinking](https://datathinking.org) is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
+
+  {% /item %}
+
+- {% ascii "card" /%}
+
+  {% item %}
+
+  ### The Parrot Report {% .jumbo %}
+
+  [The Parrot Report](https://parrot.report/) is built using a grant we received from the Wikimedia foundation to use artificial intelligence to improve discourse in society. We work with leading newsrooms to help them tell stories that are accurate, complete, and fair using our algorithms.
 
   {% /item %}
 
