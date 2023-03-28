@@ -144,7 +144,7 @@ export default function MyApp(props) {
         <Link href="/team">Team</Link>
         <Link href="https://github.com/onefact/">GitHub</Link>
         <Link href="https://onefact.zulipchat.com">
-          Community
+          Collective
         </Link>
         <Link href="https://twitter.com/onefact_org">Twitter</Link>
         <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
@@ -165,7 +165,7 @@ export default function MyApp(props) {
           <Link href="https://handbook.onefact.org">Handbook</Link>
           <Link href="https://github.com/onefact">GitHub</Link>
           <Link href="https://onefact.zulipchat.com">
-            Community
+            Collective
           </Link>
           <Link href="https://twitter.com/onefact_org">Twitter</Link>
         </Footer>
