@@ -51,14 +51,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![tim](/images/tim.jpg)
-- `Tim Harris`
-- [tim@onefact.org](mailto:tim@onefact.org)
-- [Website](http://timworks.net/) [Twitter](https://twitter.com/timworks) [LinkedIn](https://www.linkedin.com/in/timworks)
-- Chief Design Officer
-
----
-
 - ![joyce](/images/joyce.jpg)
 - `Joyce Alonzo Gorospe`
 - [joyce@onefact.org](mailto:joyce@onefact.org)
