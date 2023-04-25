@@ -196,13 +196,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![uche-aneni](/images/uche.jpg)
-- `Uche Aneni`
-- [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
-- Professor, Yale School of Medicine
-
----
-
 - ![steve-hayes](/images/steve-hayes.jpg)
 - `Steve Hayes`
 - [Website](https://stevenchayes.com/) [Twitter](https://twitter.com/stevenchayes)
@@ -305,6 +298,13 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Suzy Baek`
 - [LinkedIn](https://www.linkedin.com/in/susanna-baek-62772b215/)
 - Internship, Biomedical Research for Reproductive Health
+
+---
+
+- ![uche-aneni](/images/uche.jpg)
+- `Uche Aneni`
+- [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
+- Professor, Yale School of Medicine
 
 ---
 
