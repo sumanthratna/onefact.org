@@ -81,7 +81,7 @@ With all this bipartisan help from the government, institutions, musicians, scie
 
 **For the TD Five Boro Bike Tour this year, I ask for money that will enable us to reduce the cost of health care as quickly as possible – first in the United States, then worldwide – using open source, equitable artificial intelligence.**
 
-Donation options:
+## Might you be willing to contribute? 
 
 * Cash app: [give.onefact.org/cash](https://give.onefact.org/cash)
 * Stripe: [give.onefact.org/stripe](https://give.onefact.org/stripe)
@@ -98,6 +98,8 @@ Your contribution is tax-deductible to the fullest extent under law; the non-pro
 Please email me if you have any questions, need further information, or might be interested in contributing with pro-bono consulting, software engineering and AI research, design, or communications: [jaan@onefact.org](mailto:jaan@onefact.org). 
 
 P.S. I also teach anyone how to use GPT, and understand the principles that govern its behavior and implementations; this is a 165+ learner pilot at the University of Tartu. The course materials are publicly available, for free, at [https://www.datathinking.org/university-of-tartu](https://www.datathinking.org/university-of-tartu). 
+
+P.P.S. This document is written using the principles of [motivational interviewing](https://help.onefact.org/once-upon) that we are developing at One Fact, which are commonly used for canvassing, fundraising, and behavior change in mental health and other areas.
 
 ## Footnote 
 
