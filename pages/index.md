@@ -1,13 +1,13 @@
 ---
-title: Health, education, and discourse powered by artificial intelligence
-description: We change health, education, and discourse using open source principles at global scale.
+title: Non-profit org transforming healthcare with open-source AI
+description: We are a nonprofit organization working to transform healthcare access and efficiency globally using open-source artificial intelligence (AI) solutions
 ---
 
 {% section .hero %}
 
 {% typewriter /%}
 
-> Vision: Convenient, easy, and free health; education in support of agency, psychological safety, and self-efficacy; online and offline discourse backed by open source AI – for every person on the planet by 2030. Here's what we are building to make this a reality:
+> Our non-profit structure allows our partners, such as the National Institutes of Health and Harvard Medical School, to grant access to the health data needed to build, train, and deploy our AI engine, ClinicalBERT. Releasing and conducting research using this open source AI means we can require enterprises using our tech to validate their deployments of our model against state-of-the-art health equity metrics.
 
 {% /section %}
 
@@ -23,7 +23,9 @@ description: We change health, education, and discourse using open source princi
 
   ### Payless Health {% .jumbo %}
 
-  [Payless.health](https://payless.health) is a search engine and open database of all hospital prices in the United States. We are currently running a [data bounty](https://www.dolthub.com/blog/2022-10-28-announcing-hospital-urls/) and paying up to $10,000 for help collecting this data that is public by federal law.
+  [Payless.health](https://payless.health) is a search tool for hospital pricing, negotiated rates, and health outcomes in the United States, supported by a grant from Brown Institute (Columbia & Stanford) to parse newly-available but incomplete hospital pricing data.
+  Payless Health will help citizens and businesses save money on healthcare and negotiate with providers/insurers.
+
 
   {% /item %}
 
@@ -31,9 +33,9 @@ description: We change health, education, and discourse using open source princi
 
   {% item %}
 
-  ### The Late Pass {% .jumbo %}
+  ### Clinical Bert {% .jumbo %}
 
-  [The Late Pass](https://thelatepass.org/) is built on our work in schools across the United States, Europe, and Latin America. We published a [report](https://onefact.org/pdfs/leveraged.pdf) and are developing an honor society in support of learner agency.
+  [ClinicalBERT](https://arxiv.org/abs/1904.05342) is a healthcare-focused AI engine developed in a research paper co-created by our founder and collaborators at Stanford and New York University. It is cited 450+ times and used at multiple academic medical centers to conduct research, and build novel technology in biomedical research, life sciences, and pharmaceutical areas.
 
   {% /item %}
 
@@ -43,17 +45,17 @@ description: We change health, education, and discourse using open source princi
 
   ### Data Thinking {% .jumbo %}
 
-  [Data Thinking](https://datathinking.org) is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
+  [Data Thinking](https://www.datathinking.org/university-of-tartu) is a set of open-source courses and industry symposia we're building with our Ivy League and international partners to increase access to artificial intelligence, machine learning, and data science education around the world, such as the skills to use GPT and other large language models to accelerate their learning.
 
   {% /item %}
 
-- {% ascii "card" /%}
+- {% ascii "b" /%}
 
   {% item %}
 
-  ### The Parrot Report {% .jumbo %}
+  ### ChildFx {% .jumbo %}
 
-  [The Parrot Report](https://parrot.report/) is built using a grant we received from the Wikimedia foundation to use artificial intelligence to improve discourse in society. We work with leading newsrooms to help them tell stories that are accurate, complete, and fair using our algorithms.
+  [ChildFx](childfx.com) is an AI tool to accelerate and support pediatric radiology, based on a research paper by our founder - Detecting Pediatric Upper Extremity Fractures With Deep Learning Based Object Detection - that the One Fact Foundation has worked with Columbia University Medical Center to pilot and test.
 
   {% /item %}
 
