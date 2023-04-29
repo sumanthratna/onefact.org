@@ -80,7 +80,7 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/projects') || props.router.asPath.startsWith('/about');
+  const isDocs = props.router.asPath.startsWith('/projects') || props.router.asPath.startsWith('/about') || props.router.asPath.startsWith('/five-boro-bike-tour');
   const isLandingPage = props.router.pathname === '/';
 
   React.useEffect(() => console.log(MARKDOC), []);

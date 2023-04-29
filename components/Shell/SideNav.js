@@ -4,20 +4,12 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Vision',
-    links: [
-      { href: '/mission', children: 'What is our mission?' },
-      { href: '/docs/getting-started', children: 'Installation' },
-      { href: '/docs/faq', children: 'FAQ' },
-      { href: '/sandbox', children: 'Try it out' }
-    ]
-  },
-  {
     title: 'Projects',
     links: [
-      { href: '/projects/payless-health', children: 'Payless Health' },
-      { href: '/projects/clinicalbert', children: 'ClinicalBERT' },
-      { href: '/projects/data-thinking', children: 'Data Thinking' },
+      { href: 'https://help.payless.health/american-hospitals', children: 'Payless Health' },
+      { href: 'https://arxiv.org/abs/1904.05342', children: 'ClinicalBERT' },
+      { href: 'https://www.datathinking.org/university-of-tartu', children: 'Data Thinking' },
+      { href: 'https://childfx.com', children: 'ChildFx' },
     ]
   },
 ];
