@@ -55,7 +55,7 @@ description: We are a nonprofit organization working to transform healthcare acc
 
   ### ChildFx {% .jumbo %}
 
-  [ChildFx](childfx.com) is an AI tool to accelerate and support pediatric radiology, based on a research paper by our founder - Detecting Pediatric Upper Extremity Fractures With Deep Learning Based Object Detection - that the One Fact Foundation has worked with Columbia University Medical Center to pilot and test.
+  [ChildFx](https://childfx.com) is an AI tool to accelerate and support pediatric radiology, based on a research paper by our founder - Detecting Pediatric Upper Extremity Fractures With Deep Learning Based Object Detection - that the One Fact Foundation has worked with Columbia University Medical Center to pilot and test.
 
   {% /item %}
 
