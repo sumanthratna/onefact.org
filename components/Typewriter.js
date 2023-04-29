@@ -85,7 +85,7 @@ function Type({ text, onEnd }) {
 }
 
 const text =
-  'We change health, education, and discourse using open source AI.';
+  'One Fact Foundation is a nonprofit organization aiming to transform healthcare access and efficiency globally using open-source artificial intelligence solutions.';
 
 export function Typewriter() {
   const [state, setState] = React.useState(0);
@@ -97,12 +97,12 @@ export function Typewriter() {
     <h1 className="jumbo" aria-label={text}>
       <span className="prefers-no-animation">{text}</span>
       <span aria-hidden="true" className="prefers-animation">
-        <Swapper before="# Mission" after="We change health, education, " onEnd={next} />
-        {state >= 1 && <Type text=" & discourse " onEnd={next} />}
+        <Swapper before="# Mission" after="We transform healthcare " onEnd={next} />
+        {state >= 1 && <Type text=" access & efficiency " onEnd={next} />}
         {state >= 2 && (
           <>
             {/* <br /> */}
-            <Swapper before="{% the how %}" after=" using open source " onEnd={next} />
+            <Swapper before="{% the how %}" after=" using open source  " onEnd={next} />
           </>
         )}
         {state >= 3 && (
