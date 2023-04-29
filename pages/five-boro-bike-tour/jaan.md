@@ -1,5 +1,5 @@
 ---
-title: I need help building AI that helps people
+title: I need help building AI that helps
 description: I am raising money for the One Fact Foundation to reduce the price of health care using open source AI.
 authors: Jaan Altosaar Li, PhD
 ---
@@ -22,7 +22,9 @@ I had failed and felt cornered. My goal had been to build AI to benefit mental h
 
 The irony wasn’t lost on me—I was studying this shit! 
 
-So I persisted, using what I knew best: research, the `N=1` kind, with me as the subject. I learned about treatment plans on [UpToDate](https://www.uptodate.com/contents/unipolar-major-depression-in-adults-choosing-initial-treatment), which I could only access thanks to being employed in a hospital campus. (Doctors at top hospitals frequently use UpToDate learn what the latest research says about health and disease to make clinical decisions.)
+## Information asymmetry: institutional access to medical knowledge
+
+I persisted using what I knew best: research. Instead of my big data PhD thesis using AI trained on hundreds of thousands' of people's data, this was the `N=1` kind with me as the subject. I learned about treatment plans on [UpToDate](https://www.uptodate.com/contents/unipolar-major-depression-in-adults-choosing-initial-treatment), which I could only access thanks to being employed in a hospital campus. (Doctors at top hospitals frequently use UpToDate learn what the latest research says about health and disease to make clinical decisions.)
 
 UpToDate taught me about the symptoms of post-traumatic stress disorder I was experiencing. I also learned about antidepressants, for what my plan might be should first-line treatment with traditional therapy fail. 
 
@@ -38,11 +40,15 @@ But at last, some of the irony lifted. I was no longer alone; it was clear that 
 
 Instead of completely giving up, I had wanted to verify and reality test certain facts about the world, in accord with the [interaction principles](interactionprinciples.org) my friend Toby and I had inscribed after our friend's ordeal with sex abuse. 
 
+## Accept, commit, take action
+
 Now that I was in recovery and had stopped crying every day, it was time to act.
 
 Dr. Maher, my therapist, saw that I was thinking about starting a nonprofit to escape academia and recommended I talk to Steve Hayes, one of the [most cited scholars in the world](https://en.wikipedia.org/wiki/Steven_C._Hayes), and the creator of acceptance and commitment therapy. Steve replied to my sophomoric email and he is now [on the board](https://www.onefact.org/team) of the One Fact Foundation to help deploy our AI for mental health to countries in which it is most needed.
 
 Throughout this journey I have stayed connected to how many things I do as a 6’6” white male that few cannot – how many people can pore through expensive medical resources, loan money from their mom, and appeal a denial three times just to stop crying every day?
+
+## The Magic Grant
 
 Galvanized, I knew I needed a lot more help than I had access to, and started talking to hundreds of people. One of them suggested we might apply for the [Brown Institute Magic Grant program](https://brown.columbia.edu/propose/). The program name quotes Helen Gurley Brown, the longtime editor of Cosmopolitan Magazine, when she was describing a particularly hard time in her life when “she just needed a chance, and someone did a little “magic” to help her on her journey”. 
 
@@ -62,6 +68,8 @@ We got the grant – $55,000 – and with the money were able to collect 4000+ h
 We built a rockstar team. We have now started making maps of all the hospitals in the country, such as on this page in support of a [recent film](https://www.youtube.com/watch?v=DqUs1GUgHB4): 
 
 [https://help.payless.health/american-hospitals](https://help.payless.health/american-hospitals) 
+
+## Building our team: we need your help and donations!
 
 With the funding we raise, I can’t wait to continue hiring as diverse team as possible on as many axes as possible: women, immigrants, non-binary folks, neurodiverse individuals, and the many more categories that the people with whom I am lucky to work choose to associate with. 
 
