@@ -95,6 +95,7 @@ With all this bipartisan help from the government, institutions, musicians, scie
 * Stripe: [give.onefact.org/stripe](https://give.onefact.org/stripe)
 * Paypal: [give.onefact.org/paypal](https://give.onefact.org/paypal)
 * Venmo: [give.onefact.org/venmo](https://give.onefact.org/venmo)
+* Ether: [give.onefact.org/ether](https://give.onefact.org/ether)
 * Checks to: `One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703`
 * Via [Schwab Charitable](schwabcharitable.org) or [Vanguard Charitable](vanguardcharitable.org): look up EIN number 88-2145154 in the dashboard.
 
