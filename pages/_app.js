@@ -141,6 +141,7 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
+        <Link href="https://help.onefact.org/">Help</Link>
         <Link href="/team">Team</Link>
         <Link href="https://github.com/onefact/">GitHub</Link>
         <Link href="https://onefact.zulipchat.com">
