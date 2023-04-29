@@ -49,11 +49,11 @@ Galvanized, I knew I needed a lot more help than I had access to, and started ta
 My friends Susan, Brad, Rohan, Maxim and I applied to the Magic Grant program with this video:
 
 {% youtube 
-   src="https://www.youtube.com/watch?v=gLEJ1m0fY-o"
+   src="https://www.youtube.com/embed/gLEJ1m0fY-o"
    title="Brown Institute Magic Grant for Payless Health"
-%}
+/%}
 
-In it, we described why we need to start a nonprofit to be able to use artificial intelligence models to collect, standardize, and distribute the hundreds of terabytes of the hospital prices that are public by law - to reduce increase the power of patients to shop for quality health care they can afford. 
+In it, we describe why we need to start a nonprofit to be able to use artificial intelligence models to collect, standardize, and distribute the hundreds of terabytes of the hospital prices that are public by law - to reduce increase the power of patients to shop for quality health care they can afford. 
 
 I had been building AI for a while and knew that building this technology could make millions while [increasing global inequality and information asymmetry](https://jaan.io/my-friend-radicalized-this-made-me-rethink-how-i-build-AI/). (Today, it is even more pressing to ensure AI models that can influence decisions at scale are built equitably, backed by nonprofits, and imbued with values such as transparency and non-discrimination that can be publicly verified.)
 
@@ -107,7 +107,9 @@ I followed [this guide](https://www.kcanxiety.com/media/documents/Penzel_FightFo
 
 The appeal reads pitiful: I beg for help, I have insight into what I am doing. 
 
-My writing is also clinically inaccurate because of the way insurance forced me to write about OCD – ICD code F42.2 – lest they have one more reason to deny my care. 
+My writing is also clinically inaccurate because of the way I felt forced by insurance to write about OCD when I actually had symptoms resembling PTSD and depression. OCD was ICD code F42.2 in the theater of medicine's word salad, and I didn't want insurance to have one more reason to deny my care. 
 
 I paid $7875 out-of-pocket with a salary of $70k/year, I got reimbursed months later for most of it, and this is what it took. Dr. Maher said I was the second person in ten years to do this, and Dr. Maher has treated 10,000+ people and is a leading expert at [The Reeds Center](https://thereedscenter.com/) which he founded.
+
+If you need help paying for therapy, please reach out to [help@payless.health](mailto:help@payless.health) and we will do our best.
 
