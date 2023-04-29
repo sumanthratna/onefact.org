@@ -18,11 +18,11 @@ I wasn’t sure whether I’d be able to work.
 
 I declared disability. I was experiencing PTSD symptoms. My workplace at the time didn’t help, and I was in debt to pay for therapy to recover. My mom lent me money to cover rent.
 
-I had failed. My goal had been to build AI to benefit mental health. But now I was suffering from mental health issues myself, after I helped my friend indict a sex abuser in a Manhattan courtroom.
+I had failed and felt cornered. My goal had been to build AI to benefit mental health. But now I was suffering from mental health issues myself, after I helped my friend indict a sex abuser in a Manhattan courtroom.
 
-I felt cornered. The irony wasn’t lost on me—I was studying this shit! 
+The irony wasn’t lost on me—I was studying this shit! 
 
-So I persisted: I read about treatment plans on [UpToDate](https://www.uptodate.com/contents/unipolar-major-depression-in-adults-choosing-initial-treatment), which I could only access thanks to being employed in a hospital campus. (Doctors at top hospitals frequently use UpToDate learn what the latest research says about health and disease to make clinical decisions.)
+So I persisted, using what I knew best: research, the `N=1` kind, with me as the subject. I learned about treatment plans on [UpToDate](https://www.uptodate.com/contents/unipolar-major-depression-in-adults-choosing-initial-treatment), which I could only access thanks to being employed in a hospital campus. (Doctors at top hospitals frequently use UpToDate learn what the latest research says about health and disease to make clinical decisions.)
 
 UpToDate taught me about the symptoms of post-traumatic stress disorder I was experiencing. I also learned about antidepressants, for what my plan might be should first-line treatment with traditional therapy fail. 
 
@@ -48,7 +48,7 @@ Galvanized, I knew I needed a lot more help than I had access to, and started ta
 
 My friends Susan, Brad, Rohan, Maxim and I applied to the Magic Grant program with this video:
 
-{% xyoutube 
+{% youtube 
    src="https://www.youtube.com/watch?v=gLEJ1m0fY-o"
    title="Brown Institute Magic Grant for Payless Health"
 %}
@@ -99,7 +99,7 @@ Please email me if you have any questions, need further information, or might be
 
 P.S. I also teach anyone how to use GPT, and understand the principles that govern its behavior and implementations; this is a 165+ learner pilot at the University of Tartu. The course materials are publicly available, for free, at [https://www.datathinking.org/university-of-tartu](https://www.datathinking.org/university-of-tartu). 
 
-P.P.S. This document is written using the principles of [motivational interviewing](https://help.onefact.org/once-upon) that we are developing at One Fact, which are commonly used for canvassing, fundraising, and behavior change in mental health and other areas.
+P.P.S. In the spirit of informed consent, acceptance and commitment therapy, and the mental health work I do, I think it is important to mention that I use these principles in fundraising as well. You can even learn about these principles in our [budding employee handbook](https://help.onefact.org/once-upon).
 
 ## Footnote 
 
