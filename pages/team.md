@@ -118,7 +118,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Swapneel Mehta`
 - [swapneel@onefact.org](mailto:swapneel@onefact.org)
 - [Website](https://mehtaver.se/) [Twitter](https://twitter.com/swapneel_mehta) [LinkedIn](https://www.linkedin.com/in/swapneelm/)  
-- Chief Arbiter
+- Technical Lead, Arbiter Report
 
 ---
 
