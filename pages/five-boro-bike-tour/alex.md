@@ -12,7 +12,8 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ![swapneel](/images/alex.jpg)
 
-<p>As someone who has worked in and around mental healthcare for years, I've witnessed firsthand the challenges patients face in accessing treatment and care. Lack of information and high costs are the biggest barriers that prevent many from getting the help they need. It's frustrating to see patients disempowered by these obstacles.
+
+As someone who has worked in and around mental healthcare for years, I've witnessed firsthand the challenges patients face in accessing treatment and care. Lack of information and high costs are the biggest barriers that prevent many from getting the help they need. It's frustrating to see patients disempowered by these obstacles.
 
 That's why I'm excited to participate in the TD Five Boro Bike Tour to support One Fact and its mission to use equitable, open-source AI to provide patients with transparent access to the facts and care they deserve. One Fact is dedicated to making healthcare more affordable and hope more accessible to those who need it most. And I'm proud to support their vision of AI for equity, not inequality.
 

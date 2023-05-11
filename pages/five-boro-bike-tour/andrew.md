@@ -12,6 +12,11 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ![swapneel](/images/andrew.jpg)
 
-<p>Health, both mental and physical, are the most important gifts we have. I have always been fortunate to navigate and afford the US healthcare system. But many more are not so lucky.</p>
+Health — it's the greatest gift we possess, an intricate blend of mental and physical wellbeing. I count myself lucky, having been able to navigate the maze of the US healthcare system with relative ease. I'm aware, though, that this isn't everyone's story. 
 
-<p>Improving access through knowledge and technology is a mission worth supporting. Also, I have lived in New York for 10+ and always wanted to ride the 5 Boro Bike Tour. Super excited to join One Fact to ride around the city!</p>
+Access to healthcare shouldn't be a privilege, but a right. Many find the system difficult to understand, let alone afford. Knowledge and technology have the power to bridge this gap. It's a mission I believe is worth supporting. 
+
+As a New Yorker of over a decade, the city has given me much, and it's time to give back. The Five Boro Bike Tour has always been on my bucket list. And now, I'm not just fulfilling a personal dream. I'm joining forces with One Fact to pedal around the city, knowing every revolution of the wheels moves us closer to healthcare accessibility for all. 
+
+I'm super excited about this journey! A ride not just through the beautiful boroughs of New York, but also towards a healthier, fairer world. Join me, won't you?
+
