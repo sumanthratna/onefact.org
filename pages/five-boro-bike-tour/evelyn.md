@@ -12,5 +12,14 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ![jaan](/images/evelyn.jpg)
 
-<p>One fact that has led to a meaningful change in my life: adopting a low-carb diet leads to significantly better control of Type 1 diabetes. It took a lot of self-exploration and inquiry to grasp that I didn't need to ride the blood sugar roller coaster every day. Now, my high and low blood sugar episodes are few and far between!</p>
+Hello, fellow riders. Let me share a fact that has truly transformed my life. It's about finding control over Type 1 Diabetes through a low carb diet.
+
+If you've ever ridden a roller coaster, you know the highs and lows can be exhilarating, but not when it comes to blood sugar levels. I used to be on that ride every day, struggling to find balance.
+
+After investing time in personal research, I discovered a path less traveled by many. A low carb diet.
+
+Now, I experience fewer blood sugar peaks and valleys. It's not about simply surviving, it's about thriving.
+
+Remember, we are not defined by our conditions, but rather how we navigate them. We are riders, after all.
+
 
