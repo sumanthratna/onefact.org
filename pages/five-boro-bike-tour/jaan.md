@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/jaan.md)
 
-![jaan](/images/jaan.jpg)
+![jaan](/images/five-boro-bike-tour/jaan.jpg)
 
 Last year was hard: 
 
