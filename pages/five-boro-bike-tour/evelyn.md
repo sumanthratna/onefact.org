@@ -1,5 +1,5 @@
 ---
-title: tbd
+title: Support My Mission for Health Equity
 description: tbd
 authors: evelyn
 ---
@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/evelyn.md)
 
-![jaan](/images/evelyn.jpg)
+![evelyn](/images/five-boro-bike-tour/evelyn.jpg)
 
 Hello, fellow riders. Let me share a fact that has truly transformed my life. It's about finding control over Type 1 Diabetes through a low carb diet.
 
