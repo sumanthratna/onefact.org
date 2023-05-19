@@ -1,5 +1,5 @@
 ---
-title: tbd
+title: Pedal with Purpose - Help Me Raise Funds for One Fact
 description: tbd
 authors: charlie
 ---
@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/charlie.md)
 
-![charlie](/images/charlie.jpg)
+![charlie](/images/five-boro-bike-tour/charlie.jpg)
 
 Hello there!
 
