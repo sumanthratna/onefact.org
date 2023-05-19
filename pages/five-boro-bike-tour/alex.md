@@ -1,5 +1,5 @@
 ---
-title: Join Our Ride for Change: Empower Patients with AI Equity Today
+title: Join Our Ride for Change - Empower Patients with AI Equity Today
 description: tbd
 authors: alex
 ---
