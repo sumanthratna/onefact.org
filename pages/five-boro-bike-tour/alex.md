@@ -1,5 +1,5 @@
 ---
-title: tbd
+title: Join Our Ride for Change - Empower Patients with AI Equity Today
 description: tbd
 authors: alex
 ---
@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/alex.md)
 
-![swapneel](/images/alex.jpg)
+![alex](/images/five-boro-bike-tour/alex.jpg)
 
 
 As someone who has worked in and around mental healthcare for years, I've witnessed firsthand the challenges patients face in accessing treatment and care. Lack of information and high costs are the biggest barriers that prevent many from getting the help they need. It's frustrating to see patients disempowered by these obstacles.
