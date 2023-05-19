@@ -1,6 +1,6 @@
 ---
-title: tbd
-description: tbd
+title: Join My Journey to Equitable Healthcare
+description: Support One Fact Foundation
 authors: amy
 ---
 
@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/amy.md)
 
-![swapneel](/images/amy.jpg)
+![amy](/images/five-boro-bike-tour/amy.jpg)
 
 Hi there! My name is Amy Beth Killoran, and I'm thrilled to finally be participating in the "TD 5 Boro Bike Tour." This event has been on my bucket list for years, and this year, I'm especially honored to be riding in support of the One Fact Foundation. 
 
