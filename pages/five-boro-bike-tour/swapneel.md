@@ -1,5 +1,5 @@
 ---
-title: tbd
+title: Support My Mission to Build a Healthier Social Internet
 description: tbd
 authors: swapneel
 ---
@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/swapneel.md)
 
-![swapneel](/images/swapneel.jpg)
+![swapneel](/images/five-boro-bike-tour/swapneel.jpg)
 
 My name is Swapneel. I'm currently working on my Ph.D. at NYU, with my research primarily focused on the intriguing yet concerning world of online disinformation. You know how it is; we live in a time where polarization seems to be the norm, especially if you take a quick scroll through social media.
 
