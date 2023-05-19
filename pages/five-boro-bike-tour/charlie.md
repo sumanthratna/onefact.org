@@ -1,5 +1,5 @@
 ---
-title: Pedal with Purpose: Help Me Raise Funds for One Fact
+title: Pedal with Purpose - Help Me Raise Funds for One Fact
 description: tbd
 authors: charlie
 ---
