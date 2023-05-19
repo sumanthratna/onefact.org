@@ -1,5 +1,5 @@
 ---
-title: Pedal for Healthcare Justice: Join My Ride for One Fact
+title: Pedal for Healthcare Justice - Join My Ride for One Fact
 description: tbd
 authors: andrew
 ---
