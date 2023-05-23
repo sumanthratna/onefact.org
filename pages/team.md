@@ -136,6 +136,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [LinkedIn](https://www.linkedin.com/in/michele-tadiello/)  
 - Chief Digital Officer
 
+---
+
+- ![hope]
+- `Hope Sutherland`
+- [hope@onefact.org](mailto:hope@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
+- Senior Analyst, Climate Data Auditor
+
 {% /table %}
 
 ## Community Advisory Board
