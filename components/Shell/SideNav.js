@@ -12,6 +12,25 @@ const items = [
       { href: 'https://childfx.com', children: 'ChildFx' },
     ]
   },
+  {
+    title: 'Riders',
+    links: [
+      { href: '/five-boro-bike-tour/aaron.md', children: 'Aaron' },
+      { href: '/five-boro-bike-tour/alex.md', children: 'Alex' },
+      { href: '/five-boro-bike-tour/amy.md', children: 'Amy' },
+      { href: '/five-boro-bike-tour/andrew.md', children: 'Andrew' },
+      { href: '/five-boro-bike-tour/charlie.md', children: 'Charlie' },
+      { href: '/five-boro-bike-tour/elizabeth.md', children: 'Elizabeth' },
+      { href: '/five-boro-bike-tour/ellen.md', children: 'Ellen' },
+      { href: '/five-boro-bike-tour/evelyn.md', children: 'Evelyn' },
+      { href: '/five-boro-bike-tour/jaan.md', children: 'Jaan' },
+      { href: '/five-boro-bike-tour/kevin.md', children: 'Kevin' },
+      { href: '/five-boro-bike-tour/shelly.md', children: 'Shelly' },
+      { href: '/five-boro-bike-tour/swapneel.md', children: 'Swapneel' },
+      { href: '/five-boro-bike-tour/yili.md', children: 'Yili' },
+      { href: '/five-boro-bike-tour/zixiao.md', children: 'Zixiao' },
+    ]
+  },
 ];
 
 export function SideNav() {
