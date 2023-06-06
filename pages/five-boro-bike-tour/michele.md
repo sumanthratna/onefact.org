@@ -12,18 +12,24 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ![michele](/images/five-boro-bike-tour/michele.jpg)
 
-Hi there! I'm Michele Tadiello, hailing all the way from Italy. During my time in the United States, I had the incredible opportunity to study at Duke University School of Medicine, where I earned a master's degree in Management in Clinical Informatics. This educational journey equipped me with the knowledge and skills to utilize digital innovation in the pursuit of improving health equity—a cause that stirs deep passion within me.
+Hello, my name is Michele Tadiello and I am from Italy. I had the opportunity to study at Duke University School of Medicine in the United States, where I earned a master's degree in Management in Clinical Informatics. This education has provided me with the necessary knowledge and skills to use digital innovation to improve health equity, a cause that I am deeply passionate about.
 
-Fueling my commitment to this cause, I co-founded One Fact Foundation, a remarkable tech non-profit organization dedicated to increasing global healthcare access and equity through open-source AI. Our groundbreaking work has garnered support from prestigious institutions like Columbia University, Stanford University, and the National Institutes of Health (NIH).
 
-I am grateful for the chance to remain in the United States while working with One Fact Foundation. In my role, I lead the analysis of quality metrics, shedding light on the intricate relationship between price, cost, and quality. Through these insights, we strive to bring positive change to a system that is in dire need of reform.
+With a dedication to this cause, I embarked on One Fact Foundation, a tech non-profit organization that strives to increase healthcare access and equity globally through open-source AI. Our groundbreaking work has received support from esteemed institutions such as Columbia University, Stanford University, and the National Institutes of Health (NIH).
 
-We find ourselves at a pivotal moment in history, where technology holds immense potential to revolutionize healthcare and positively impact lives worldwide. I firmly believe that through digital innovations, we can bridge the gaps in healthcare and ensure equal access and outcomes for all. If you share my unwavering passion for this cause, I warmly invite you to join me in supporting the One Fact Foundation.
 
-Your donations to this organization are not only tax-deductible but also directly contribute to our mission of effecting change within a broken system. Every contribution, no matter the size, plays a vital role in shaping the transformative impact we aspire to create.
+I am grateful for the chance to stay in the United States while working at One Fact Foundation. My role includes leading the analysis of quality metrics, which helps us understand the relationship between price, cost, and quality. By doing so, we can make positive changes to a system in great need of reform.
 
-Making a donation is simple. You can choose from various platforms such as Cash App, Stripe, PayPal, and Venmo. Alternatively, if you prefer traditional methods, you can send a check to the One Fact Foundation at the following address: One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703.
 
-For those who have donor-advised funds with Schwab Charitable or Vanguard Charitable, locating the One Fact Foundation is easy. Simply search for our Employer Identification Number (EIN) 88-2145154 in the respective dashboards of these platforms.
+We are at a crucial moment in history where we can use technology to improve healthcare and help people around the world. I strongly believe that by using digital innovations, we can close the gaps in healthcare and make sure everyone has equal access and outcomes. If you share my passion for this cause, please join me in supporting the One Fact Foundation.
 
-I genuinely appreciate your time and interest in learning about my unwavering dedication to improving health equity through digital innovation. Together, we can make a meaningful difference and pave the way for a future where healthcare is accessible to every individual, regardless of their circumstances. Let's collaborate as change agents and build a healthier, fairer world for all.
+Donations made to this organization are tax-deductible and directly contribute to its mission of effecting change within a broken system. Every contribution, regardless of its size, plays a vital role in creating the change we wish to see in the world.
+
+
+You can make your donation through various platforms, including Cash App, Stripe, PayPal, and Venmo. Alternatively, if you prefer traditional methods, you can send a check to the One Fact Foundation at the following address: One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703.
+
+For those who have donor-advised funds with Schwab Charitable or Vanguard Charitable, you can easily find the One Fact Foundation by searching for their Employer Identification Number (EIN) 88-2145154 in the respective dashboards of these platforms.
+
+
+I appreciate you taking the time to learn about my dedication to improving health equity through digital innovation. Together, we can make a difference and create a future where healthcare is accessible to everyone, no matter their circumstances. Let's work together to be agents of change and create a healthier, fairer world for all.
+
