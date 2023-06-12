@@ -304,14 +304,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
 - Professor, Yale School of Medicine
 
----
-
-- ![tim](/images/tim.jpg)
-- `Tim Harris`
-- [tim@onefact.org](mailto:tim@onefact.org)
-- [Website](http://timworks.net/) [Twitter](https://twitter.com/timworks) [LinkedIn](https://www.linkedin.com/in/timworks)
-- Chief Design Officer
-
 {% /table %}
 
 {% /section %}
