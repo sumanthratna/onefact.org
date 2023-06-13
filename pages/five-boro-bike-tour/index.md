@@ -21,3 +21,7 @@ We are an official charity partner of the TD Five Boro Bike Tour; see our logo h
 * [Swapneel](/five-boro-bike-tour/swapneel)
 * [Yili](/five-boro-bike-tour/yili)
 * [Zixiao](/five-boro-bike-tour/zixiao)
+
+Linknyc Campaign                                                                                     |  Power to the Patients Fat Joe
+:---------------------------------------------------------------------------------------------------:|:-------------------------:
+![payless.health-linknyc-campaign](/images/five-boro-bike-tour/payless.health-linknyc-campaign.jpg)  |  ![powertothepatients.org-onefact.org-fat-joe-price-transparency](/images/five-boro-bike-tour/powertothepatients.org-onefact.org-fat-joe-price-transparency.jpg)
