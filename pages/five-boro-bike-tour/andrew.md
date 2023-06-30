@@ -10,7 +10,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/andrew.md)
 
-![andrew](public/images/five-boro-bike-tour/andrew.jpg)
+![andrew](/images/five-boro-bike-tour/andrew.jpg)
 
 Health — it's the greatest gift we possess, an intricate blend of mental and physical wellbeing. I count myself lucky, having been able to navigate the maze of the US healthcare system with relative ease. I'm aware, though, that this isn't everyone's story. 
 

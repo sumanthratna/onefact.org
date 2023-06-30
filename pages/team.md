@@ -136,6 +136,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [LinkedIn](https://www.linkedin.com/in/michele-tadiello/)  
 - Chief Digital Officer
 
+---
+
+- ![hope]
+- `Hope Sutherland`
+- [hope@onefact.org](mailto:hope@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
+- Senior Analyst, Climate Data Auditor
+
 {% /table %}
 
 ## Community Advisory Board
@@ -303,14 +311,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 - `Uche Aneni`
 - [Website](https://medicine.yale.edu/profile/uche-aneni/) [LinkedIn](https://www.linkedin.com/in/uanenimd/) [Twitter](https://twitter.com/uanenimd)
 - Professor, Yale School of Medicine
-
----
-
-- ![tim](/images/tim.jpg)
-- `Tim Harris`
-- [tim@onefact.org](mailto:tim@onefact.org)
-- [Website](http://timworks.net/) [Twitter](https://twitter.com/timworks) [LinkedIn](https://www.linkedin.com/in/timworks)
-- Chief Design Officer
 
 {% /table %}
 
