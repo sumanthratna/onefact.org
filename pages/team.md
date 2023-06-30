@@ -94,7 +94,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - ![jacob](/images/jacob.jpg)
 - `Jacob S. Zelko`
 - [jacob@onefact.org](mailto:jacob@onefact.org)
-- [Website]([https://jacobzelko.com](https://jacobzelko.com/))[Twitter](https://twitter.com/Jacob_Zelko)[GitHub](https://github.com/TheCedarPrince)[Google Scholar](https://scholar.google.com/citations?user=hNlNUewAAAAJ&hl=en&oi=ao)
+- [Website](https://jacobzelko.com/) [Twitter](https://twitter.com/Jacob_Zelko) [GitHub](https://github.com/TheCedarPrince) [Google Scholar](https://scholar.google.com/citations?user=hNlNUewAAAAJ&hl=en&oi=ao)
 - Chief of Global Health Informatics
 
 ---
@@ -157,6 +157,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 - ![michael](/images/michael.jpg)
 - `Michael Snarski`
+- 
 - [LinkedIn](https://www.linkedin.com/in/michael-snarski-25247424/)
 - Education Researcher
 
@@ -165,7 +166,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - ![suzy](images/suzy.jpg)
 - `Susanna (Suzy) Suyoun Baek Cho`
 - [suzy@onefact.org](mailto:suzy@onefact.org)
-- [LinkedIn]((https://www.linkedin.com/in/susanna-baek-62772b215/)
+- [LinkedIn](https://www.linkedin.com/in/susanna-baek-62772b215/)
 - Human Design Engineer Psychologist
 
 ---
@@ -173,7 +174,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 - ![tommy](/images/tommy.jpg)
 - `Tommy Ly`
 - [tommy@onefact.org](mailto:tommy@onefact.org)
-- [Website](https://www.tommyly.org/)[Twitter](https://twitter.com/lymytom20/)[LinkedIn](https://www.linkedin.com/in/tommyly20/)
+- [Website](https://www.tommyly.org/) [Twitter](https://twitter.com/lymytom20/) [LinkedIn](https://www.linkedin.com/in/tommyly20/)
 - Student Collaborator
 
 ---
@@ -298,12 +299,12 @@ description: The One Fact Foundation team is on a mission to change global healt
 - ![ben](/images/ben.jpg)
 - `Ben Guzovsky`
 - [Website](https://benguzovsky.com) [Twitter](https://twitter.com/benguzovsky) [LinkedIn](https://www.linkedin.com/in/benjamin-guzovsky/)
+- 
 
 ---
 
 - ![kakuyon](/images/kakuyon.jpg)
 - `Kakuyon Mataeh`
-- [kakuyon@onefact.org](mailto:kakuyon@onefact.org)
 - [Linkedin](https://www.linkedin.com/in/kakuyonmataeh/)
 - Chief Cartographer
 
@@ -332,6 +333,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 - ![nicole](/images/nicole.jpg)
 - `Nicole Miara`
+- 
 - Internship, Cross-cultural Psychology
   
 ---
