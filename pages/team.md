@@ -19,6 +19,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
+- ![john-carter](/images/john-carter.jpg)
+- `John Carter`
+- [john@onefact.org](mailto:john@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/jcrcarter/)
+- Chief of Strategy
+
+---
+
 - ![theresa](/images/theresa.jpg)
 - `Theresa Stockdale`
 - [theresa@onefact.org](mailto:theresa@onefact.org)
@@ -32,14 +40,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 - [rachel@onefact.org](mailto:rachel@onefact.org)
 - [Website](https://cycadianhealth.com/) [LinkedIn](https://linkedin.com/in/rachelwestlakebpca)
 - Chief Advocate
-- 
----
-
-- ![kakuyon](/images/kakuyon.jpg)
-- `Kakuyon Mataeh`
-- [kakuyon@onefact.org](mailto:kakuyon@onefact.org)
-- [Linkedin](https://www.linkedin.com/in/kakuyonmataeh/)
-- Chief Cartographer
 
 ---
 
@@ -51,82 +51,11 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![brad](/images/brad.jpg)
-- `Brad Windsor`
-- [brad@onefact.org](mailto:brad@onefact.org)
-- [LinkedIn](https://www.linkedin.com/in/brad-windsor-3ba33727/)
-- Technical Lead, Payless Health
-
----
-
-- ![john-carter](/images/john-carter.jpg)
-- `John Carter`
-- [john@onefact.org](mailto:john@onefact.org)
-- [LinkedIn](https://www.linkedin.com/in/jcrcarter/)
-- Chief of Strategy
-
----
-
 - 
 - `Rohan Bansal`
 - [rohan@onefact.org](mailto:rohan@onefact.org)
 - [Website](https://rohan.page/) [LinkedIn](https://www.linkedin.com/in/rohan-bansal-0910651a5/)
 - Chief of Artificial Intelligence
-
----
-
-- ![sergio](/images/sergio.jpg)
-- `Sergio Urbina`
-- [sergio@onefact.org](mailto:sergio@onefact.org)
-- [Website](https://www.usergio.com/) 
-- Chief Imaging Officer
-
----
-
-- ![maxim](/images/maxim.jpg)
-- `Maxim Zaslavsky`
-- [maxim@onefact.org](mailto:maxim@onefact.org)
-- [Website](https://www.maximzaslavsky.com/) [Twitter](https://twitter.com/zazius) [LinkedIn](https://www.linkedin.com/in/maximzaslavsky/)
-- Community Building, Payless Health
-
----
-
-- ![caroline](/images/caroline.jpg)
-- `Caroline von Klemperer`
-- [caroline@onefact.org](mailto:caroline@onefact.org)
-- [Website](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1158-von-klemperer-caroline) 
-- Chief Conceptual Engineer
-
----
-
-- ![michael](/images/michael.jpg)
-- `Michael Snarski`
-- [LinkedIn](https://www.linkedin.com/in/michael-snarski-25247424/)
-- Education Researcher
-
----
-
-- 
-- `Susan Merriam`
-- [susan@onefact.org](mailto:susan@onefact.org)
-- [Twitter](https://twitter.com/semerriam) [LinkedIn](https://www.linkedin.com/in/susan-merriam/) 
-- Journalism Lead, Payless Health
-
----
-
-- ![swapneel](/images/swapneel_headshot.jpg)
-- `Swapneel Mehta`
-- [swapneel@onefact.org](mailto:swapneel@onefact.org)
-- [Website](https://mehtaver.se/) [Twitter](https://twitter.com/swapneel_mehta) [LinkedIn](https://www.linkedin.com/in/swapneelm/)  
-- Technical Lead, Arbiter Report
-
----
-
-- ![fredrik](/images/fredrik.jpg)
-- `Fredrik Folkestad`
-- [fredrik@onefact.org](mailto:fredrik@onefact.org)
-- [Website](https://www.folkestad-sinoskandinavien.com/) [LinkedIn](https://www.linkedin.com/in/fredrik-folkestad-b11aa3166/)  
-- Chief Silence Officer
 
 ---
 
@@ -138,11 +67,118 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![hope]
+- ![fredrik](/images/fredrik.jpg)
+- `Fredrik Folkestad`
+- [fredrik@onefact.org](mailto:fredrik@onefact.org)
+- [Website](https://www.folkestad-sinoskandinavien.com/) [LinkedIn](https://www.linkedin.com/in/fredrik-folkestad-b11aa3166/)  
+- Chief Silence Officer
+
+---
+
+- ![sergio](/images/sergio.jpg)
+- `Sergio Urbina`
+- [sergio@onefact.org](mailto:sergio@onefact.org)
+- [Website](https://www.usergio.com/) 
+- Chief Imaging Officer
+
+---
+
+- ![caroline](/images/caroline.jpg)
+- `Caroline von Klemperer`
+- [caroline@onefact.org](mailto:caroline@onefact.org)
+- [Website](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1158-von-klemperer-caroline) 
+- Chief Conceptual Engineer
+
+---
+
+- ![jacob](/images/jacob.jpg)
+- `Jacob S. Zelko`
+- [jacob@onefact.org](mailto:jacob@onefact.org)
+- [Website]([https://jacobzelko.com](https://jacobzelko.com/))[Twitter](https://twitter.com/Jacob_Zelko)[GitHub](https://github.com/TheCedarPrince)[Google Scholar](https://scholar.google.com/citations?user=hNlNUewAAAAJ&hl=en&oi=ao)
+- Chief of Global Health Informatics
+
+---
+
+- ![alex](/images/alex.jpg)
+- `Alex Hradecky`
+- [alex@onefact.org](mailto:alex@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/alexanderhradecky/)
+- Policy and Strategy Manager
+
+---
+
+- ![brad](/images/brad.jpg)
+- `Brad Windsor`
+- [brad@onefact.org](mailto:brad@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/brad-windsor-3ba33727/)
+- Technical Lead, Payless Health
+
+---
+
+- 
+- `Susan Merriam`
+- [susan@onefact.org](mailto:susan@onefact.org)
+- [Twitter](https://twitter.com/semerriam) [LinkedIn](https://www.linkedin.com/in/susan-merriam/) 
+- Journalism Lead, Payless Health
+
+---
+
+- ![maxim](/images/maxim.jpg)
+- `Maxim Zaslavsky`
+- [maxim@onefact.org](mailto:maxim@onefact.org)
+- [Website](https://www.maximzaslavsky.com/) [Twitter](https://twitter.com/zazius) [LinkedIn](https://www.linkedin.com/in/maximzaslavsky/)
+- Community Building, Payless Health
+
+---
+
+- ![swapneel](/images/swapneel_headshot.jpg)
+- `Swapneel Mehta`
+- [swapneel@onefact.org](mailto:swapneel@onefact.org)
+- [Website](https://mehtaver.se/) [Twitter](https://twitter.com/swapneel_mehta) [LinkedIn](https://www.linkedin.com/in/swapneelm/)  
+- Technical Lead, Arbiter Report
+
+---
+
+- ![francesca](/images/francesca.jpg)
+- `Francesca Cavuoti (they/them)`
+- [francesca@onefact.org](mailto:francesca@onefact.org)
+- [LinkedIn]([www.linkedin.com/in/francesca-cavuoti](http://www.linkedin.com/in/francesca-cavuoti))
+- User Experience Lead
+
+---
+
+- ![hope](/images/hope.jpg)
 - `Hope Sutherland`
 - [hope@onefact.org](mailto:hope@onefact.org)
 - [LinkedIn](https://www.linkedin.com/in/sopehutherland/)
-- Senior Analyst, Climate Data Auditor
+- Climate Lead, Data Thinking
+
+---
+
+- ![michael](/images/michael.jpg)
+- `Michael Snarski`
+- [LinkedIn](https://www.linkedin.com/in/michael-snarski-25247424/)
+- Education Researcher
+
+---
+
+- ![suzy](images/suzy.jpg)
+- `Susanna (Suzy) Suyoun Baek Cho`
+- [suzy@onefact.org](mailto:suzy@onefact.org)
+- [LinkedIn]((https://www.linkedin.com/in/susanna-baek-62772b215/)
+- Human Design Engineer Psychologist
+
+---
+
+- ![tommy](/images/tommy.jpg)
+- `Tommy Ly`
+- [tommy@onefact.org](mailto:tommy@onefact.org)
+- [Website](https://www.tommyly.org/)[Twitter](https://twitter.com/lymytom20/)[LinkedIn](https://www.linkedin.com/in/tommyly20/)
+- Student Collaborator
+
+---
+
+
 
 {% /table %}
 
@@ -252,9 +288,24 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
+- ![adriana](/images/adriana.jpg)
+- `Adriana Sierra`
+- [adriana.sierra@duke.edu](mailto:adriana.sierra@duke.edu)
+- Senior Project Developer, Financial Planning & Analysis
+
+---
+
 - ![ben](/images/ben.jpg)
 - `Ben Guzovsky`
 - [Website](https://benguzovsky.com) [Twitter](https://twitter.com/benguzovsky) [LinkedIn](https://www.linkedin.com/in/benjamin-guzovsky/)
+
+---
+
+- ![kakuyon](/images/kakuyon.jpg)
+- `Kakuyon Mataeh`
+- [kakuyon@onefact.org](mailto:kakuyon@onefact.org)
+- [Linkedin](https://www.linkedin.com/in/kakuyonmataeh/)
+- Chief Cartographer
 
 ---
 
@@ -265,14 +316,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+-
 - `Anton Stengel`
 - [LinkedIn](https://www.linkedin.com/in/anton-stengel-339179147/)
 - Internship, Housing Equity
 
 ---
 
-- 
+-
 - `Alex Pesendorfer`
 - [LinkedIn](https://www.linkedin.com/in/alexander-pesendorfer-bb825a20b/)
 - Internship, Artificial Intelligence for Writing
@@ -281,7 +332,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 - ![nicole](/images/nicole.jpg)
 - `Nicole Miara`
-- 
 - Internship, Cross-cultural Psychology
   
 ---
@@ -293,7 +343,7 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- 
+-
 - `Bridgette Collado`
 - [LinkedIn](https://www.linkedin.com/in/bridgettecollado/)
 - Treasurer of the Board
