@@ -43,14 +43,6 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![joyce](/images/joyce.jpg)
-- `Joyce Alonzo Gorospe`
-- [joyce@onefact.org](mailto:joyce@onefact.org)
-- [LinkedIn](https://www.linkedin.com/in/joycegorospe/)
-- Chief People & Culture Officer
-
----
-
 - 
 - `Rohan Bansal`
 - [rohan@onefact.org](mailto:rohan@onefact.org)
@@ -286,6 +278,13 @@ description: The One Fact Foundation team is on a mission to change global healt
 ## Alumni
 
 {% table %}
+
+---
+
+- ![joyce](/images/joyce.jpg)
+- `Joyce Alonzo Gorospe`
+- [LinkedIn](https://www.linkedin.com/in/joycegorospe/)
+- Chief People & Culture Officer
 
 ---
 
