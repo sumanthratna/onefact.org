@@ -131,10 +131,10 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
-- ![francesca](/images/francesca.jpg)
+- ![francesca](/images/francesca.jpeg)
 - `Francesca Cavuoti (they/them)`
 - [francesca@onefact.org](mailto:francesca@onefact.org)
-- [LinkedIn]([www.linkedin.com/in/francesca-cavuoti](http://www.linkedin.com/in/francesca-cavuoti))
+- [LinkedIn](http://www.linkedin.com/in/francesca-cavuoti)
 - User Experience Lead
 
 ---
