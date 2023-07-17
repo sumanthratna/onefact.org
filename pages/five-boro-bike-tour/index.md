@@ -15,6 +15,7 @@ We are an official charity partner of the TD Five Boro Bike Tour; see our logo h
 * [Elizabeth](/five-boro-bike-tour/elizabeth)
 * [Ellen](/five-boro-bike-tour/ellen)
 * [Evelyn](/five-boro-bike-tour/evelyn)
+* [Kate](/five-boro-bike-tour/kate)
 * [Jaan](/five-boro-bike-tour/jaan)
 * [Kevin](/five-boro-bike-tour/kevin)
 * [Shelly](/five-boro-bike-tour/shelly)
