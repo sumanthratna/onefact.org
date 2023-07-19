@@ -12,7 +12,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ![kate](/images/five-boro-bike-tour/kate.jpg)
 
-This week, I found myself in the vibrant city of NYC, ready to embark on an incredible journey cycling through all five boroughs alongside @onefact_org during the renowned Five Boro Bike Tour.
+This week, I found myself in the vibrant city of NYC, ready to embark on an incredible journey cycling through all five boroughs alongside @onefact.org during the renowned Five Boro Bike Tour.
 
 Let me tell you a bit about One Fact. They are a remarkable tech non-profit, dedicated to advancing healthcare access and equity worldwide through open-source AI. With esteemed support from renowned institutions like Columbia, Stanford, and the NIH, they have garnered recognition for their groundbreaking work.
 
@@ -23,3 +23,4 @@ Drawing from my past research and experience as a psychologist, I am acutely awa
 When you donate to One Fact, you're contributing to a cause that is actively working to transform our broken healthcare system. Your donations are not only tax-deductible but also directly contribute to One Fact's mission of effecting the change we desperately need. Together, we can make a tangible impact and create a future where healthcare is accessible and equitable for all.
 
 Join me on this incredible journey by supporting One Fact and together let's make a lasting difference in the lives of individuals around the world.
+
