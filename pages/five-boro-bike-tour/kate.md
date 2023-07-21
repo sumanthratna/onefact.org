@@ -10,8 +10,6 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/onefact.org/edit/main/pages/five-boro-bike-tour/kate.md)
 
-![kate](/images/five-boro-bike-tour/kate.jpg)
-
 This week, I found myself in the vibrant city of NYC, ready to embark on an incredible journey cycling through all five boroughs alongside @onefact.org during the renowned Five Boro Bike Tour.
 
 Let me tell you a bit about One Fact. They are a remarkable tech non-profit, dedicated to advancing healthcare access and equity worldwide through open-source AI. With esteemed support from renowned institutions like Columbia, Stanford, and the NIH, they have garnered recognition for their groundbreaking work.
