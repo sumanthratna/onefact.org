@@ -51,6 +51,14 @@ description: The One Fact Foundation team is on a mission to change global healt
 
 ---
 
+- ![erkin](/images/erkin.png)
+- `Erkin Ötleş`
+- [hi@eotles.com](mailto:hi@eotles.com)
+- [Website](https://eotles.com/) [LinkedIn]([https://www.linkedin.com/in/rohan-bansal-0910651a5/](https://www.linkedin.com/in/erkinotles))
+- Medical Informatics
+
+---
+
 - ![michele](/images/michele.jpg)
 - `Michele Tadiello`
 - [michele@onefact.org](mailto:michele@onefact.org)
